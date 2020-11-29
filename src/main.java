@@ -10,5 +10,6 @@ public class main {
         {
             System.out.println(arr.get(i));
         }
+        System.out.println(LZ77.Decompress(arr));
     }
 }
